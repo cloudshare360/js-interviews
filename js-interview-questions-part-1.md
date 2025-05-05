@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 JavaScript is a dynamic language meaning data type of the variables can change during the runtime
 
 ![alt text](image.png)
@@ -61,3 +62,7 @@ variable with out var key word becomes global
 ![alt text](image-8.png)
 
 ![alt text](image-9.png)
+=======
+JavaScript is a dynamic language meaning data type of the variables can change during the runtime
+
+>>>>>>> 6dcbe59c7a3db2d18685f0fa5b007df7d94aa69e
